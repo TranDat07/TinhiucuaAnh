@@ -9,8 +9,6 @@
   <body>
     <div class="wrapper">
       <h1 class="question">Ngoài em raa anhh còn cô nào khác hay khôngg?<br><span style="font-style: italic; font-size: 67%;">Anh mà không chọn mà thoát ra thì đừng nhìn mặt em nữa🙂</span></h1>
-
-
       <img
         class="gif"
         alt="gif"
@@ -18,8 +16,7 @@
       />
       <div class="btn-group">
         <button class="yes-btn">Có Nhìu lắm</button>
-        <button class="no-btn">Chỉ có em</button>
-        
+        <button class="no-btn">Chỉ có em</button>   
       </div>
       <p class="additional-message" style="display:none;">Dòng chữ mới không xuất hiện khi ấn vào có nhìu lắm</p>
     </div>
